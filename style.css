@@ -1,0 +1,44 @@
+.div_header h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+    text-shadow: 5px 5px 10px black; 
+    letter-spacing: 2px;
+    font-size: 50px;
+}
+body{
+background-color: aquamarine;
+}
+.div_header p{
+    color: rgb(28, 84, 188);
+    font-weight: 800;
+    letter-spacing: 2px;
+}
+.start{
+    color: rgb(0, 0, 0);
+    background-color: aqua;
+    font-size: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+    box-shadow: 5px 5px 15px;
+    margin-top: 20px;
+}
+#hear, #accuracy{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+letter-spacing: 2px;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    background-color: rgb(36, 115, 185);
+    width: 100%;
+    font-family: cursive;
+    font-weight: 800;
+    line-height: 3;
+    text-shadow: 5px 5px 10px black; 
+    letter-spacing: 2px;
+}
+.div_header{
+background-color: burlywood;
+padding: 40px;
+}
+
